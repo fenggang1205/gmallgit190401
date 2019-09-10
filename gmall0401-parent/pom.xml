@@ -18,7 +18,7 @@
         <module>../gmall0401-interface</module>
         <module>../gmall0401-util-common</module>
         <module>../gmall0401-util-web</module>
-        <module>../gmall-util-service</module>
+        <module>../gmall0401-util-service</module>
     </modules>
 
     <properties>

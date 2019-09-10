@@ -10,7 +10,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>gmall-util-service</artifactId>
+    <artifactId>gmall0401-util-service</artifactId>
 
     <dependencies>
         <dependency>
