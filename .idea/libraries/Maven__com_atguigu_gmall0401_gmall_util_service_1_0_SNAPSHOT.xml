@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.atguigu.gmall0401:gmall-util-service:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/RepMavenidea/com/atguigu/gmall0401/gmall-util-service/1.0-SNAPSHOT/gmall-util-service-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/RepMavenidea/com/atguigu/gmall0401/gmall-util-service/1.0-SNAPSHOT/gmall-util-service-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/RepMavenidea/com/atguigu/gmall0401/gmall-util-service/1.0-SNAPSHOT/gmall-util-service-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
